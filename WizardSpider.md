@@ -1,8 +1,13 @@
 # Wizard Spider
 
 Origin: Russia
+
+Active Region: Europe
+
 First Seen: 2016
+
 Last Seen: 2024
+
 Motive: Financial Gains
 
 Common Attack Vectors:
