@@ -2,7 +2,7 @@
 
 Origin: Russia
 First Seen: 2016
-Last Seen: 2023
+Last Seen: 2024
 Motive: Financial Gains
 
 Common Attack Vectors:
