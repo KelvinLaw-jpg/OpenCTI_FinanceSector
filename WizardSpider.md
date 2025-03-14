@@ -10,7 +10,7 @@ Last Seen: 2024
 
 Motive: Financial Gains
 
-Common Attack Vectors for initial access: Spearphishing links & attachments, remote services, Domain Accounts(weak or default cred)
+Common Attacks for initial access: Spearphishing links & attachments, remote services, Domain Accounts(weak or default cred)
 
 Malware of Choice (including Malware as a Service - both selling or buying): Trickbot, Anchor, and BazarLoader, as well as Ryuk, Conti, and Diavol ransomware
 
